@@ -94,7 +94,7 @@ p {
   font-size: 19px;
   line-height: 1.5;
   margin: 16px auto 35px;
-  width: 600px;
+  max-width: 600px;
 }
 
 .hero-btn {
